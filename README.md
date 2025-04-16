@@ -2,7 +2,7 @@
 
 This project is a comprehensive system for managing a pizza restaurant using the Odoo platform. It provides complete management for orders, chefs, menus, invoicing, and delivery through an easy and smart interface.
 
-🔗 **Live System Link:** [flafleto.odoo.com](https://flafleto.odoo.com/)
+🔗 **Live System Link:** [flafleto.odoo.com](https://pizzatubaza.odoo.com/)
 
 ---
 
