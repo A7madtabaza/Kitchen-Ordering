@@ -3,7 +3,7 @@
 This project is a comprehensive system for managing a pizza restaurant using the Odoo platform. It provides complete management for orders, chefs, menus, invoicing, and delivery through an easy and smart interface.
 
 🔗 **Live System Link:** [pizzatubaza.odoo.com/](https://pizzatubaza.odoo.com/)
-
+                         [figma.com](https://www.figma.com/design/6KKoL2aDCDVYeOn3vlPaTd/Untitled?node-id=0-1&p=f&t=koqKFlJLAtcEip1E-0)
 ---
 
 ## 📌 Overview
